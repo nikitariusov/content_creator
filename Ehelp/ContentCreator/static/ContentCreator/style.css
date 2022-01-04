@@ -1,0 +1,16 @@
+.header {
+    margin: 20px 0 0 10px;
+}
+
+.bg-logo {
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+    border: 2px none;
+    border-radius: 15px;
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
